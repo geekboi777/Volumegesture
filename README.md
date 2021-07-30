@@ -1,6 +1,6 @@
 # Volumegesture
 
-The GestureVolumeControl.py file contains the working model of the Volume Gesture Controller
+**The GestureVolumeControl.py file contains the working model of the Volume Gesture Controller**
 
 In order to run the model you will need to download/clone the repository and add the  4 files to your ide.
 
