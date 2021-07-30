@@ -1,4 +1,5 @@
 # Volumegesture
+# This project only works on the windows machine because iOS volume control library was not available.
 
 **The GestureVolumeControl.py file contains the working model of the Volume Gesture Controller**
 
